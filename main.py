@@ -1,6 +1,6 @@
 from aiogram import Bot,Dispatcher,types,executor
 import instaloader
-import sec
+import info
 import os
 from shutil import rmtree
 
